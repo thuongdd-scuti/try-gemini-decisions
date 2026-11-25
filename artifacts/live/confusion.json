@@ -1,0 +1,62 @@
+{
+  "decisions": {
+    "Invoice": {
+      "Invoice": 12,
+      "Receipt": 0,
+      "Contract": 0,
+      "Other": 0,
+      "ERROR": 0
+    },
+    "Receipt": {
+      "Invoice": 0,
+      "Receipt": 12,
+      "Contract": 0,
+      "Other": 0,
+      "ERROR": 0
+    },
+    "Contract": {
+      "Invoice": 0,
+      "Receipt": 0,
+      "Contract": 12,
+      "Other": 0,
+      "ERROR": 0
+    },
+    "Other": {
+      "Invoice": 0,
+      "Receipt": 0,
+      "Contract": 0,
+      "Other": 12,
+      "ERROR": 0
+    }
+  },
+  "generative": {
+    "Invoice": {
+      "Invoice": 11,
+      "Receipt": 0,
+      "Contract": 0,
+      "Other": 0,
+      "ERROR": 1
+    },
+    "Receipt": {
+      "Invoice": 0,
+      "Receipt": 12,
+      "Contract": 0,
+      "Other": 0,
+      "ERROR": 0
+    },
+    "Contract": {
+      "Invoice": 0,
+      "Receipt": 0,
+      "Contract": 12,
+      "Other": 0,
+      "ERROR": 0
+    },
+    "Other": {
+      "Invoice": 0,
+      "Receipt": 0,
+      "Contract": 0,
+      "Other": 12,
+      "ERROR": 0
+    }
+  }
+}

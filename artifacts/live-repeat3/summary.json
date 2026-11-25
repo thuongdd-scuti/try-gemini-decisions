@@ -1,0 +1,28 @@
+[
+  {
+    "method": "decisions",
+    "attempts": 81,
+    "valid": 81,
+    "accuracy_all": 1.0,
+    "accuracy_valid": 1.0,
+    "error_rate": 0.0,
+    "avg_latency_ms_valid": 453.72654933390425,
+    "p95_latency_ms_valid": 594.2171670030802,
+    "avg_latency_ms_all": 453.72654933390425,
+    "cost_usage_coverage": 1.0,
+    "estimated_usd_per_1000_attempts": 0.021313580246913582
+  },
+  {
+    "method": "generative",
+    "attempts": 81,
+    "valid": 80,
+    "accuracy_all": 0.9876543209876543,
+    "accuracy_valid": 1.0,
+    "error_rate": 0.012345679012345734,
+    "avg_latency_ms_valid": 1746.7869291300303,
+    "p95_latency_ms_valid": 6008.836874971166,
+    "avg_latency_ms_all": 1729.7698142636498,
+    "cost_usage_coverage": 0.9876543209876543,
+    "estimated_usd_per_1000_attempts": null
+  }
+]

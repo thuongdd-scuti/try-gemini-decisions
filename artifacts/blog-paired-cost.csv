@@ -1,0 +1,3 @@
+method,paired_samples,input_tokens,output_tokens,estimated_usd_per_1000_successes
+decisions,47,10008,0,0.021293617021276596
+generative,47,7470,47,0.05018085106382979

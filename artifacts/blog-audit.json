@@ -1,0 +1,11 @@
+{
+  "source": "artifacts/live",
+  "paired_samples": 47,
+  "usd_per_1000_successful_paired_documents": {
+    "decisions": 0.021293617021276596,
+    "generative": 0.05018085106382979
+  },
+  "cost_reduction_fraction": 0.5756624973500106,
+  "excluded_timeout_id": "doc-004",
+  "full_baseline_cost": null
+}

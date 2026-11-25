@@ -1,0 +1,23 @@
+{
+  "started_utc": "2026-11-20T10:02:25.069144+00:00",
+  "models": {
+    "decisions": "gemini-decision-1",
+    "generative": "gemini-3.5-flash-lite"
+  },
+  "rates": {
+    "decisions": [
+      0.1,
+      0.0
+    ],
+    "generative": [
+      0.3,
+      2.5
+    ]
+  },
+  "pricing_source": "https://aistudio.google.com/docs/pricing",
+  "dataset_sha256": "79bfe21cd93c5d34da74f95c2c67b68a548c67ef22248d2f84a9c93603b43004",
+  "samples": 1,
+  "repeats": 1,
+  "seed": 20261120,
+  "protocol": "Sequential, randomized paired order, no retries, fresh urllib connection, no warmup; latency includes network/TLS and JSON decoding, excludes payload construction and disk writes."
+}

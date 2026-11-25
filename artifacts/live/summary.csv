@@ -1,0 +1,3 @@
+method,attempts,valid,accuracy_all,accuracy_valid,error_rate,avg_latency_ms_valid,p95_latency_ms_valid,avg_latency_ms_all,cost_usage_coverage,estimated_usd_per_1000_attempts
+decisions,48,48,1.0,1.0,0.0,477.86418825368554,633.928666007705,477.86418825368554,1.0,0.021306250000000002
+generative,48,47,0.9791666666666666,1.0,0.02083333333333337,5739.7385886300635,8888.18629202433,6872.142009512269,0.9791666666666666,
